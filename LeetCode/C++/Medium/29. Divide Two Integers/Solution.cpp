@@ -48,6 +48,6 @@ public:
         
         /* Returning the quotient 
         with proper sign */
-        return isPositive ? ans : -1*ans;
+        return isPositive ? ans : -ans;
     }
 };
