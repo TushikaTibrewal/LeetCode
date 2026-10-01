@@ -1,6 +1,6 @@
 # 📝 29. Divide Two Integers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/divide-two-integers)
+🔗 [Problem Link](https://leetcode.com/problems/divide-two-integers/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Math, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
