@@ -1,6 +1,6 @@
 # 📝 29. Divide Two Integers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/divide-two-integers/solutions/8506499/beats-1000-with-simple-to-understand-cod-kans/)
+🔗 [Problem Link](https://leetcode.com/problems/divide-two-integers/solutions/8414574/bit-manipulation-beats-100-python-java-e-a3v3/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
